@@ -2,7 +2,8 @@
 def say_hello(name)
   puts "Hello Kent Beck!"
 
-#say_hello()
+def say_hello(no_name)
  # puts "Hello Ruby Programmer!"
   
+end
 end
